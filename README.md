@@ -2,8 +2,24 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
   - [Network Packet Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  
+
+<h2>🧧Certifications</h2>
+
+  - [CompTIA A+](https://www.credly.com/badges/4cc595a1-5f19-4c8d-8653-4fd81b2dd5f6/public_url)
+  - [Google Cybersecurity Professional](https://coursera.org/share/a4ed15da7fb71b7e469b56c137b71503)
+
+
+
+
+<h2>🌱 I’m currently learning/Studying for </h2>
+
+  - CompTIA Security+
+  - AWS Cloud Practitioner
+  - Cloud Security
+
+
 
 
 
@@ -20,7 +36,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
