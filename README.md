@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Network Packet Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Network Packet Analysis](https://github.com/SkerlinLorenzo/WiresharkLab)
   
 
 <h2>🧧Certifications</h2>
