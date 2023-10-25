@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Network Packet Analysis](https://github.com/SkerlinLorenzo/WiresharkLab)
-  - [Network Security with Raspberry Pi]()
+  - [Network Security with Raspberry Pi](https://github.com/SkerlinLorenzo/NetworkSecurity)
   
 
 <h2>🧧Certifications</h2>
@@ -17,9 +17,9 @@
 
 <h2>🌱 I’m currently learning/Studying for </h2>
 
-  - CompTIA Security+
-  - AWS Cloud Practitioner
+  - Network Security
   - Cloud Security
+  - Vulnerability Assessment and Risk Management
 
 
 
