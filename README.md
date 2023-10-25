@@ -9,6 +9,7 @@
 <h2>🧧Certifications</h2>
 
   - [CompTIA A+](https://www.credly.com/badges/4cc595a1-5f19-4c8d-8653-4fd81b2dd5f6/public_url)
+  - CompTIA Security+(In Progress) 
   - [Google Cybersecurity Professional](https://coursera.org/share/a4ed15da7fb71b7e469b56c137b71503)
 
 
