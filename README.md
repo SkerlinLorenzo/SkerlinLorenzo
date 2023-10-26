@@ -15,7 +15,7 @@
 
 
 
-<h2>🌱 I’m currently learning/Studying for </h2>
+<h2>🌱 I’m currently learning
 
   - Network Security
   - Cloud Security
