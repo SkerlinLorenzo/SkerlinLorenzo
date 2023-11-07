@@ -4,6 +4,7 @@
 
   - [Network Packet Analysis](https://github.com/SkerlinLorenzo/WiresharkLab)
   - [Network Security with Raspberry Pi](https://github.com/SkerlinLorenzo/NetworkSecurity)
+  - [Home Lab](https://github.com/SkerlinLorenzo/HomeLab)
   
 
 <h2>🧧Certifications</h2>
