@@ -5,7 +5,7 @@
   - [Network Packet Analysis](https://github.com/SkerlinLorenzo/WiresharkLab)
   - [Network Security with Raspberry Pi](https://github.com/SkerlinLorenzo/NetworkSecurity)
   - [Home Lab](https://github.com/SkerlinLorenzo/HomeLab)
-  
+  - [Wazuh Security Monitoring](https://github.com/SkerlinLorenzo/WazuhSecurityMonitoring)
 
 <h2>🧧Certifications</h2>
 
