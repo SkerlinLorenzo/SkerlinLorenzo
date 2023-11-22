@@ -2,10 +2,10 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Network Packet Analysis](https://github.com/SkerlinLorenzo/WiresharkLab)
-  - [Network Security with Raspberry Pi](https://github.com/SkerlinLorenzo/NetworkSecurity)
   - [Home Lab](https://github.com/SkerlinLorenzo/HomeLab)
+  - [Network Packet Analysis](https://github.com/SkerlinLorenzo/WiresharkLab)
   - [Wazuh Security Monitoring](https://github.com/SkerlinLorenzo/WazuhSecurityMonitoring)
+  - [Network Security with Raspberry Pi](https://github.com/SkerlinLorenzo/NetworkSecurity)
 
 <h2>🧧Certifications</h2>
 
